@@ -1,0 +1,73 @@
+{
+   "hero-text":
+   {
+      "en": "Hello, my name is Dmytro and I am engaged in the layout of responsive web pages!",
+      "ua": "Привіт, мене завти Дмитро і я займаюсь версткою адаптивних веб-сторінок!"
+   },
+   "guarantee":
+   {
+      "en": "What do I guarantee?",
+      "ua": "Що я гарантую?"
+   },
+   "adapt":
+   {
+      "en": "Adaptive, semantic and valid layout.",
+      "ua": "Адаптивна, семантична та валідна верстка."
+   },
+   "cross":
+   {
+      "en": "Full cross-browser and cross-platform compatibility.",
+      "ua": "Повна кросбраузерність та кросплатформеність."
+   },
+   "cms":
+   {
+      "en": "Clean code for further support and implementation on the CMS system.",
+      "ua": "Чистий код для подальшої підтримки та впровадження на CMS системи."
+   },
+   "browsers":
+   {
+      "en": "Testing work in all popular browsers: Chrome, Firefox, Edge, Safari, Opera.",
+      "ua": "Тестування роботи у всіх популярних браузерах: Chrome, Firefox, Edge, Safari, Opera."
+   },
+   "test":
+   {
+      "en": "Site testing on mobile devices and tablets.",
+      "ua": "Тестування сайту на мобільних пристроях та планшетах."
+   },
+   "optimization":
+   {
+      "en": "Site optimization.",
+      "ua": "Оптимізація роботи сайту."
+   },
+   "why-me":
+   {
+      "en": "Why me?",
+      "ua": "Чому я?"
+   },
+   "slogan":
+   {
+      "en": "I know that quality website design is the key to success in the online world. Trust me with your design and provide your audience with unparalleled user interaction, impressive experience and efficient functionality. Your business deserves better!",
+      "ua": "Я знаю, що якісна верстка сайту - це ключ до успіху в онлайн-світі. Довірте мені ваш дизайн та забезпечте своїй аудиторії неперевершену користувацьку взаємодію, вражаючий досвід та ефективну функціональність. Ваш бізнес заслуговує на краще!"
+   },
+   "stack-title":
+   {
+      "en": "Technical stack",
+      "ua": "Технічний стек"
+   },
+   "stack":
+   {
+      "en": "HTML (HTML5), CSS (CSS3), SASS, Java Script, GSAP, NPM, Gulp, Webpack, ESLint, Stylelint, OpenServer, Babel, Flexbox, Grid-layout, BEM.",
+      "ua": "HTML (HTML5), CSS (CSS3), SASS, Java Script, GSAP, NPM, Gulp, Webpack, ESLint, Stylelint, OpenServer, Babel, Flexbox, Grid-layout, БЕМ."
+   },
+   "work-with":
+   {
+      "en": "I work with Figma, Adobe XD, Adobe Photoshop.",
+      "ua": "Працюю з Figma, Adobe XD, Adobe Photoshop."
+   },
+   "works-list":
+   {
+      "en": "Works list",
+      "ua": "Список робіт"
+   }
+
+}
